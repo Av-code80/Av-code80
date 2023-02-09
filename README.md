@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aveh Ghasemian
-- 👀 I’m interested in Front-End web Developement
-- 🌱 I’m a Front-End web develepment in React-Reduxjs
-- 💞️ I’m looking to collaborate on CDI/Freelance positions
+- 👀 I’m interested in Front-End web Developement 
+- 🌱 I’m a Front-End web develepment in React | Next.js/ts
+- 💞️ I’would like to collaborate with you in team via a permanent position (CDI)
 - 📫 How to reach me : dev.avehghasemian@gmail.com
 
 <!---
